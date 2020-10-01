@@ -32,8 +32,8 @@ This project contains my algorithm implementations for the following online cour
     * Event profiling
     * Portfolio Optimization
   
-  * Natural Language Processing: https://www.coursera.org/course/nlangp
-    * Hidden Markov models, and tagging problems: Viterbi algorithm
+  * Natural Language Processing: https://www.coursera.org/specializations/natural-language-processing
+    * Hidden Markov models, and tagging problems: Viterbi algorithm,attention models,language models  and seuwnce models,transformers
 
 In observance of the honor code, I will submit my code to this repository only
 after the correspondent homework assignments are officially closed.
